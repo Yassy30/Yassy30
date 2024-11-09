@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yassy30
-- 👀 I’m interested in Front-end web developpement
-- 🌱 I’m currently learning Javascript and SQL
+- 👀 I’m interested in mobile app developpement
+- 🌱 I’m currently learning Kotlin and Android
 - 📫 How to reach me: via email yasminajabrouni@gmail.com 
 
 
