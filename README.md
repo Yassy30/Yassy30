@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yassy30
 - 👀 I’m interested in mobile app developpement
-- 🌱 I’m currently learning Kotlin and Android
+- 🌱 I’m currently learning Flutter and APIs
 - 📫 How to reach me: via email yasminajabrouni@gmail.com 
 
 
