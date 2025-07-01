@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Yassy30<br>- 👀 I’m interested in mobile app developpement<br>- 🌱 I’m currently learning Flutter and APIs<br>- 📫 How to reach me: via email yasminajabrouni@gmail.com
+### 👋 Hey there, I’m Yassmina!
+
+💻 I'm a passionate **Web & Mobile App Developer**  
+📱 Currently diving deep into **Flutter** and integrating **powerful APIs**  
+🌐 I love crafting sleek, user-friendly apps that solve real-world problems  
+🎯 Always eager to learn, build, and grow in the world of tech 
 
 
 ## 🌐 Socials:
