@@ -1,5 +1,5 @@
 # 💫 About Me:
-### 👋 Hey there, I’m Yassmina!
+### 👋 Hey there, I’m Yasmina!
 
 💻 I'm a passionate **Web & Mobile App Developer**  
 📱 Currently diving deep into **Flutter** and integrating **powerful APIs**  
